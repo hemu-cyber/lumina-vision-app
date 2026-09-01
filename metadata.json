@@ -1,0 +1,11 @@
+{
+  "name": "Lumina Vision - AI Digital Eyes",
+  "description": "An AI-powered assistive vision companion for the visually impaired that reads text, recognizes faces, describes scenes, finds objects, and verbally narrates the world.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
